@@ -1,0 +1,45 @@
+com/example/layaoutexample/ui/gallery/GalleryFragment.java
+ com.example.layaoutexample.ui.gallery.GalleryFragment
+ com.example.layaoutexample.ui.gallery.GalleryFragment$1
+com/example/layaoutexample/ui/home/HomeViewModel.java
+ com.example.layaoutexample.ui.home.HomeViewModel
+com/example/layaoutexample/ui/slideshow/SlideshowViewModel.java
+ com.example.layaoutexample.ui.slideshow.SlideshowViewModel
+com/example/layaoutexample/ui/gallery/GalleryViewModel.java
+ com.example.layaoutexample.ui.gallery.GalleryViewModel
+com/example/layaoutexample/ui/home/HomeFragment.java
+ com.example.layaoutexample.ui.home.HomeFragment
+ com.example.layaoutexample.ui.home.HomeFragment$1
+com/example/layaoutexample/ui/slideshow/SlideshowFragment.java
+ com.example.layaoutexample.ui.slideshow.SlideshowFragment
+ com.example.layaoutexample.ui.slideshow.SlideshowFragment$1
+com/example/layaoutexample/BuildConfig.java
+ com.example.layaoutexample.BuildConfig
+com/example/layaoutexample/DrawerActivity.java
+ com.example.layaoutexample.DrawerActivity
+ com.example.layaoutexample.DrawerActivity$1
+com/example/layaoutexample/DataBaseHelper.java
+ com.example.layaoutexample.DataBaseHelper
+com/example/layaoutexample/ListDataActivity.java
+ com.example.layaoutexample.ListDataActivity
+ com.example.layaoutexample.ListDataActivity$1
+com/example/layaoutexample/Config.java
+ com.example.layaoutexample.Config
+ com.example.layaoutexample.Config$1
+ com.example.layaoutexample.Config$2
+com/example/layaoutexample/MainActivity.java
+ com.example.layaoutexample.MainActivity
+ com.example.layaoutexample.MainActivity$1
+ com.example.layaoutexample.MainActivity$10
+ com.example.layaoutexample.MainActivity$11
+ com.example.layaoutexample.MainActivity$2
+ com.example.layaoutexample.MainActivity$3
+ com.example.layaoutexample.MainActivity$4
+ com.example.layaoutexample.MainActivity$5
+ com.example.layaoutexample.MainActivity$6
+ com.example.layaoutexample.MainActivity$7
+ com.example.layaoutexample.MainActivity$8
+ com.example.layaoutexample.MainActivity$9
+com/example/layaoutexample/EditData.java
+ com.example.layaoutexample.EditData
+ com.example.layaoutexample.EditData$1
